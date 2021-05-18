@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+font-family: Montserrat, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ 
+
+.header-style{
+  text-align: center;
+  background-color:#363636;
+}
+
+.div-header {
+  line-height: 100px;
+
+}
+ 
+header h1 {
+  font-family: 'Ubuntu Mono', monospace;
+  color: #13c251;
+  font-size: 35px;
+  }
+ 
+.nav-box {
+  background-color: #16c251;
+
+}
+
+main ul {
+  list-style: none;
+}
+
+main h2 {
+  margin-bottom: 10px;
+}
+
+.nav-display li{
+  margin: 15px 40px;
+   color:white;
+   display: inline-block;
+  }
+  li a { text-decoration: none; color:white; }
+  a:visited { text-decoration: none; }
+  a:hover { color: #363636; }
+  a:focus { text-decoration: none; }
+  a:hover, a:active { text-decoration: none; }
+  #lista-hover:hover{
+    color: #363636;
+   }
+
+.artigo1 {
+  margin: 40px 35px 1px;
+}
+
+
+
+article {
+  padding: 30px 70px 20px;
+  width: 80%;
+
+}
+.section-article {
+   padding: 30px 70px;
+}
+.section-article h2 {
+  margin-bottom: 40px;
+}
+
+.video {
+   padding-left: 20px;
+  float: left;
+}
+.small-article {
+  width: 40%;
+  float: right;   
+  padding-right: 70px; 
+}
+.biblio {
+  text-align: center;
+   width: 100%;
+  clear: both;
+  }
+footer {
+  text-align: center;
+}
